@@ -1,0 +1,16 @@
+node_modules
+dist
+dist-ssr
+.DS_Store
+*.local
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.log
+*.tsbuildinfo
+
+# Local-only source assets (already copied into public/ where needed)
+Profile.pdf
+Image (*).jpg
+Image (*).jpeg
+Image (*).png
