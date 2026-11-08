@@ -12,12 +12,12 @@ export const profile = {
   company: "Colorado Dept. of Human Services",
   location: "Denver, Colorado",
   email: "sathyavamshi.ed@gmail.com",
-  linkedin: "https://www.linkedin.com/in/vamshi-m-37711444a/",
-  linkedinLabel: "linkedin.com/in/vamshi-m-37711444a",
+  linkedin: "https://www.linkedin.com/in/vamshi-m1999/",
+  linkedinLabel: "linkedin.com/in/vamshi-m1999",
   github: "https://github.com/vamshi-dev99",
   githubLabel: "github.com/vamshi-dev99",
   resume: "Sathya_Mittakori_Resume.pdf",
-  photo: "profile.svg",
+  photo: "profile.jpg",
   years: "5+",
   openTo: "Open to Data Engineering, ETL & Analytics Engineering roles",
   tagline:
@@ -89,7 +89,7 @@ export const experience: Experience[] = [
   },
   {
     company: "GoDaddy",
-    role: "Data Engineer (Contract)",
+    role: "Data Engineer",
     period: "Aug 2019 - Jul 2023",
     location: "Hyderabad, India",
     highlights: [
